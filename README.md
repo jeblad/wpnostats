@@ -7,3 +7,7 @@ Two columns are then added for _stdDev_ and _mean_, each accumulated over 12 mon
 A third column is then added for lower bound of one standard deviation, aka the 34/68 % limit, and a fourth colum for a one year difference over the mean. Even if the delayed skew is notable for the mean the difference should be pretty close to the expected for stable values.
 
 The graphs is a plain mapping of the column values.
+
+To get the file without using git click "Clone or download" and then "Download ZIP". Open the file localy and extract the file.
+
+Note thet the xlsx-file is a separate dump from LibreOffice and may contain errors.
