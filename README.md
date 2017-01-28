@@ -1,6 +1,6 @@
 # Statistics for a few Wikipedias.
 
-This is a slightly edited copy of Zachtes statistics [Monthly counts &amp; Quarterly rankings: December 2016](https://stats.wikimedia.org/EN/TablesWikipediaNO.htm) for Norwegian (bokmål) Wikipedia and a few other Wikipedias. The table is created by selecting the actual rows from the table, and then copying the _code_  for those rows. A header and footer is recreated, numbers for table cells corrected, and some confusing additions removed. This is the html-file in the repo.
+These are slightly edited copies of Zachtes statistics [Monthly counts &amp; Quarterly rankings: December 2016](https://stats.wikimedia.org/EN/TablesWikipediaNO.htm) for Norwegian (bokmål) Wikipedia and a few other Wikipedias, and some additional statistics. The table is created by selecting the actual rows from the table, and then copying the _code_  for those rows. A header and footer is recreated, numbers for table cells corrected, and some confusing additions removed. This is the html-file in the repo.
 
 The slightly edited file is then imported into LibreOffice Calc, and sorted in ascending order. Each data column are then moved into separate sheets together with a copy of the date column.
 
